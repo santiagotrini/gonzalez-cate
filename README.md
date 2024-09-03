@@ -22,26 +22,26 @@ Algunas sugerencias:
 
 - [1.1](https://es.javascript.info/intro)
 - [1.4](https://es.javascript.info/devtools)
-- [2.1]
-- [2.2]
-- [2.4]
-- [2.5]
-- [2.6]
-- [2.8]
-- [2.9]
-- [2.10]
-- [2.11]
-- [2.15]
-- [4.1]
+- [2.1](https://es.javascript.info/hello-world)
+- [2.2](https://es.javascript.info/structure)
+- [2.4](https://es.javascript.info/variables)
+- [2.5](https://es.javascript.info/types)
+- [2.6](https://es.javascript.info/alert-prompt-confirm)
+- [2.8](https://es.javascript.info/operators)
+- [2.9](https://es.javascript.info/comparison)
+- [2.10](https://es.javascript.info/ifelse)
+- [2.11](https://es.javascript.info/logical-operators)
+- [2.15](https://es.javascript.info/function-basics)
+- [4.1](https://es.javascript.info/object)
 
 #### Parte 2
 
-- [1.4]
-- [1.5]
-- [1.7]
-- [2.1]
-- [4.1]
-- [4.4]
+- [1.4](https://es.javascript.info/)
+- [1.5](https://es.javascript.info/)
+- [1.7](https://es.javascript.info/)
+- [2.1](https://es.javascript.info/)
+- [4.1](https://es.javascript.info/)
+- [4.4](https://es.javascript.info/)
 
 ## 2da prueba
 
@@ -49,29 +49,29 @@ Algunas sugerencias:
 
 #### Parte 1
 
-- [2.13]
-- [2.16]
-- [2.17]
-- [5.3]
-- [5.4]
-- [5.5]
-- [5.11]
-- [5.12]
-- [6.8]
-- [11.1]
+- [2.13](https://es.javascript.info/)
+- [2.16](https://es.javascript.info/)
+- [2.17](https://es.javascript.info/)
+- [5.3](https://es.javascript.info/)
+- [5.4](https://es.javascript.info/)
+- [5.5](https://es.javascript.info/)
+- [5.11](https://es.javascript.info/)
+- [5.12](https://es.javascript.info/)
+- [6.8](https://es.javascript.info/)
+- [11.1](https://es.javascript.info/)
 
 #### Parte 2
 
-- [1.1]
-- [1.2]
-- [1.3]
-- [1.6]
-- [1.8]
+- [1.1](https://es.javascript.info/)
+- [1.2](https://es.javascript.info/)
+- [1.3](https://es.javascript.info/)
+- [1.6](https://es.javascript.info/)
+- [1.8](https://es.javascript.info/)
 
 #### Parte 3
 
-- [3.1]
-- [4.2]
+- [3.1](https://es.javascript.info/fetch)
+- [4.2](https://es.javascript.info/localstorage)
 
 ## 3era prueba
 
