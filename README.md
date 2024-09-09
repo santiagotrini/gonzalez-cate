@@ -36,12 +36,12 @@ Algunas sugerencias:
 
 #### Parte 2
 
-- [1.4](https://es.javascript.info/)
-- [1.5](https://es.javascript.info/)
-- [1.7](https://es.javascript.info/)
-- [2.1](https://es.javascript.info/)
-- [4.1](https://es.javascript.info/)
-- [4.4](https://es.javascript.info/)
+- [1.4](https://es.javascript.info/searching-elements-dom)
+- [1.5](https://es.javascript.info/basic-dom-node-properties)
+- [1.7](https://es.javascript.info/modifying-document)
+- [2.1](https://es.javascript.info/introduction-browser-events)
+- [4.1](https://es.javascript.info/form-elements)
+- [4.4](https://es.javascript.info/forms-submit)
 
 ## 2da prueba
 
@@ -49,24 +49,24 @@ Algunas sugerencias:
 
 #### Parte 1
 
-- [2.13](https://es.javascript.info/)
-- [2.16](https://es.javascript.info/)
-- [2.17](https://es.javascript.info/)
-- [5.3](https://es.javascript.info/)
-- [5.4](https://es.javascript.info/)
-- [5.5](https://es.javascript.info/)
-- [5.11](https://es.javascript.info/)
-- [5.12](https://es.javascript.info/)
-- [6.8](https://es.javascript.info/)
-- [11.1](https://es.javascript.info/)
+- [2.13](https://es.javascript.info/while-for)
+- [2.16](https://es.javascript.info/function-expressions)
+- [2.17](https://es.javascript.info/arrow-functions-basics)
+- [5.3](https://es.javascript.info/string)
+- [5.4](https://es.javascript.info/array)
+- [5.5](https://es.javascript.info/array-methods)
+- [5.11](https://es.javascript.info/date)
+- [5.12](https://es.javascript.info/json)
+- [6.8](https://es.javascript.info/settimeout-setinterval)
+- [11.1](https://es.javascript.info/callbacks)
 
 #### Parte 2
 
-- [1.1](https://es.javascript.info/)
-- [1.2](https://es.javascript.info/)
-- [1.3](https://es.javascript.info/)
-- [1.6](https://es.javascript.info/)
-- [1.8](https://es.javascript.info/)
+- [1.1](https://es.javascript.info/browser-environment)
+- [1.2](https://es.javascript.info/dom-nodes)
+- [1.3](https://es.javascript.info/dom-navigation)
+- [1.6](https://es.javascript.info/dom-attributes-and-properties)
+- [1.8](https://es.javascript.info/styles-and-classes)
 
 #### Parte 3
 
