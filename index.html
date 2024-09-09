@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ejemplos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Adiviná el número</h1>
+  <button onclick="handleClick(event)">Reiniciar el juego</button>
+  <form onsubmit="handleSubmit(event)">
+    <input placeholder="un número del 1 al 100" type="text" name="numero">
+    <input type="submit" value="Adivinar">
+  </form>
+  <h1 id="resultado"></h1>
+  <h2>0 preguntas</h2>
+  <button onclick="createParagraph()">Crear un parrafo</button>
+</body>
+<script src="main.js"></script>
+</html>

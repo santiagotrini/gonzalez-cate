@@ -33,6 +33,7 @@ Algunas sugerencias:
 - [2.11](https://es.javascript.info/logical-operators)
 - [2.15](https://es.javascript.info/function-basics)
 - [4.1](https://es.javascript.info/object)
+- [5.2](https://es.javascript.info/number)
 
 #### Parte 2
 

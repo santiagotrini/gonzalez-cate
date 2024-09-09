@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  margin-bottom: 1em;
+}
+
+form {
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1em;
+}
+
+form > input {
+  width: 100%;
+}
